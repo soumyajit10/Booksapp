@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Books</string>
+
+    <string name="color">Colour Name</string>
+    <string name="numbers">Numbers</string>
+    <string name="phrases">Phrases</string>
+    <string name="family_members">Family_members</string>
+
+</resources>
